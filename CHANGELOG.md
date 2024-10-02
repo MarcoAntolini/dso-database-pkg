@@ -1,5 +1,15 @@
 # dso-database
 
+## 2.1.0
+
+### Minor Changes
+
+- d12122b: Update images export types and consts.
+
+### Patch Changes
+
+- 533a562: Add missing export.
+
 ## 2.0.0
 
 ### Major Changes
